@@ -1,6 +1,8 @@
 # searchGithubPerson
 
-## [](#0介绍-introduction)0.介绍 INTRODUCTION
+此文主要用作自己跟随郭永峰老师滴react课程做demo用，自己只做简单添加及修改
+
+## 0.介绍 INTRODUCTION
 
 我们计划用最近所学的技术知识来完成一个完整且实用的功能应用，这个应用具有以下功能：
 
@@ -15,7 +17,7 @@
 
 在看到了这个原型图之后，我们来做一件很重要的事情，使用组件化的思维来解析这个应用需求。
 
-### [](#github-notetaker-app整体组件划分示意图)github-notetaker-app整体组件划分示意图
+### github-notetaker-app整体组件划分示意图
 
 [![](/GuoYongfeng/idoc/raw/2016_bak/img/notetaker/notetaker.png)](/GuoYongfeng/idoc/blob/2016_bak/img/notetaker/notetaker.png)
 
