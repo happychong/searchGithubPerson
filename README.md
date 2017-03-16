@@ -12,8 +12,10 @@
 *   通过特定路由可以访问特定用户的信息
 
 大概是长这个样子
-
+首页
 [![](https://raw.githubusercontent.com/happychong/searchGithubPerson/master/images/ok.png)](https://raw.githubusercontent.com/happychong/searchGithubPerson/master/images/ok.png)
+搜索结果页
+[![](https://raw.githubusercontent.com/happychong/searchGithubPerson/master/images/index.png)](https://raw.githubusercontent.com/happychong/searchGithubPerson/master/images/index.png)
 
 在看到了这个原型图之后，我们来做一件很重要的事情，使用组件化的思维来解析这个应用需求。
 
