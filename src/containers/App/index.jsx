@@ -1,24 +1,21 @@
-import React, { Component } from 'react';
-import { MyComponent } from '../../components';
+import React from 'react';
+import { SearchGithub } from '../../components';
+import 'bootstrap/dist/css/bootstrap.css';
 
-import './index.css';
 
-class App extends Component {
-  constructor(props) {
-    super(props);
-  }
-
-  render() {
-    return (
-      <div>
-        <MyComponent />
-        <p>
-          欢迎在github上一起维护这个脚手架项目<br />
-          https://github.com/GuoYongfeng
-        </p>
+const App = ({children, history}) => {
+  return (
+    <div className="main-container">
+      <nav className="navbar navbar-default" role="navigation">
+        <div className="col-sm-7 col-sm-offset-2" style={{marginTop: 15}}>
+          <SearchGithub history={history}/>
+        </div>
+      </nav>
+      <div className="container">
+        {children}
       </div>
-    );
-  }
+    </div>
+  )
 }
 
-export default App;
+export default App
