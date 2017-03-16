@@ -13,13 +13,13 @@
 
 大概是长这个样子
 
-[![](/GuoYongfeng/idoc/raw/2016_bak/img/notetaker/demo.png)](/GuoYongfeng/idoc/blob/2016_bak/img/notetaker/demo.png)
+[![](https://raw.githubusercontent.com/happychong/searchGithubPerson/master/images/ok.png)](https://raw.githubusercontent.com/happychong/searchGithubPerson/master/images/ok.png)
 
 在看到了这个原型图之后，我们来做一件很重要的事情，使用组件化的思维来解析这个应用需求。
 
 ### github-notetaker-app整体组件划分示意图
 
-[![](/GuoYongfeng/idoc/raw/2016_bak/img/notetaker/notetaker.png)](/GuoYongfeng/idoc/blob/2016_bak/img/notetaker/notetaker.png)
+[![](https://raw.githubusercontent.com/happychong/searchGithubPerson/master/images/components.png)](https://raw.githubusercontent.com/happychong/searchGithubPerson/master/images/components.png)
 
 ## [](#1启动)1.启动
 
