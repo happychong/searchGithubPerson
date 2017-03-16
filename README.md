@@ -1082,7 +1082,7 @@ export default class UserProfile extends Component {
 
 查看一下效果吧
 
-[![](/GuoYongfeng/idoc/raw/2016_bak/img/notetaker/last.png)](/GuoYongfeng/idoc/blob/2016_bak/img/notetaker/last.png)
+[![](/happychong/searchGithubPerson/blob/master/images/ok.png)](/happychong/searchGithubPerson/blob/master/images/ok.png)
 
 ## [](#结语)结语
 
